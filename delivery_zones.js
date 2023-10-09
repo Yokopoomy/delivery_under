@@ -203,7 +203,7 @@ function init() {
     }
 
     $.ajax({
-        url: 'https://cdn.statically.io/gh/Yokopoomy/data.geojson/main/data.geojson',
+        url: 'https://cdn.statically.io/gh/Yokopoomy/delivery_under/main/data.geojson',
         dataType: 'json',
         success: onZonesLoad
     });
