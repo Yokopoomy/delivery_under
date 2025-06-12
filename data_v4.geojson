@@ -851,8 +851,8 @@
 				"stroke-width": "1",
 				"stroke-opacity": 0.8,
 				"delivery": "0",
-				"min": "99999",
-				"free": "99999",
+				"min": "0",
+				"free": "0",
 				"test": "Доставка ЯндексGo"
 			}
 		},
